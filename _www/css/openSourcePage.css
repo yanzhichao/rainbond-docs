@@ -107,6 +107,9 @@ ul.nav-flex li a.active{
 }
 .nav-logo{
     float: left;
+    width:209px;
+    height: 50px;
+    margin-left: 4%；
 }
 .container-fluid div.description{
     height: 250px;
