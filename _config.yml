@@ -53,3 +53,5 @@ defaults:
 algolia:
    application_id: RITXU8D7M1
    index_name: rainbond
+
+theme: jekyll-theme-merlot
